@@ -37,3 +37,6 @@
     3. Pod에 할당해주는 대역폭
     ex. 172.168.1.0/24
     
+# 레퍼런스
+https://arin-nya.tistory.com/130
+https://kubernetes.io/ko/docs/home/
